@@ -19,3 +19,5 @@ Again.
 from my macbook air 4/18/18
 from macbook air 4/30/18
 git checkout -- <file> is the way to get rid of changes in favor of the git repo version
+
+Plan: take neurosurgeon's R into a folder with caselog and make that a project. Adjust code. Make R markdown of the resulting code to display the output AND the means by which it was obtained.

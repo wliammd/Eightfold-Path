@@ -5,13 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "3019647065",
+    "hash" : "1826995034",
     "id" : "9100E861",
-    "lastKnownWriteTime" : 1525522180,
-    "last_content_update" : 1525522180,
+    "lastKnownWriteTime" : 1530184361,
+    "last_content_update" : 1530184361341,
     "path" : "~/Desktop/Ninefold-Path/Eightfold-Path/forward.html",
     "project_path" : "forward.html",
     "properties" : {
+        "cursorPosition" : "22,192",
+        "scrollLine" : "10"
     },
     "relative_order" : 1,
     "source_on_save" : false,
