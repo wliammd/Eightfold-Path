@@ -183,3 +183,53 @@ Changes not staged for commit:
 
 no changes added to commit (use "git add" and/or "git commit -a")
 ]0;~/Desktop/Ninefold-Path/Eightfold-Pathwliamlaptop:Eightfold-Path wliamlaptop$ git add .
+]0;~/Desktop/Ninefold-Path/Eightfold-Pathwliamlaptop:Eightfold-Path wliamlaptop$ git commit -m "m[Kplans for neurosurgon [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K[Keon [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K[Kgeo ns"
+[master 7ca433b] plans for neurosurgeons
+ 5 files changed, 58 insertions(+), 4 deletions(-)
+]0;~/Desktop/Ninefold-Path/Eightfold-Pathwliamlaptop:Eightfold-Path wliamlaptop$ git push
+Counting objects: 12, done.
+Delta compression using up to 8 threads.
+Compressing objects:   8% (1/12)   Compressing objects:  16% (2/12)   Compressing objects:  25% (3/12)   Compressing objects:  33% (4/12)   Compressing objects:  41% (5/12)   Compressing objects:  50% (6/12)   Compressing objects:  58% (7/12)   Compressing objects:  66% (8/12)   Compressing objects:  75% (9/12)   Compressing objects:  83% (10/12)   Compressing objects:  91% (11/12)   Compressing objects: 100% (12/12)   Compressing objects: 100% (12/12), done.
+Writing objects:   8% (1/12)   Writing objects:  16% (2/12)   Writing objects:  25% (3/12)   Writing objects:  33% (4/12)   Writing objects:  41% (5/12)   Writing objects:  50% (6/12)   Writing objects:  58% (7/12)   Writing objects:  66% (8/12)   Writing objects:  75% (9/12)   Writing objects:  83% (10/12)   Writing objects:  91% (11/12)   Writing objects: 100% (12/12)   Writing objects: 100% (12/12), 1.82 KiB | 931.00 KiB/s, done.
+Total 12 (delta 5), reused 0 (delta 0)
+remote: Resolving deltas:   0% (0/5)   [Kremote: Resolving deltas:  20% (1/5)   [Kremote: Resolving deltas:  40% (2/5)   [Kremote: Resolving deltas:  60% (3/5)   [Kremote: Resolving deltas:  80% (4/5)   [Kremote: Resolving deltas: 100% (5/5)   [Kremote: Resolving deltas: 100% (5/5), completed with 5 local objects.[K
+To https://github.com/wliammd/Eightfold-Path.git
+   86cc4c6..7ca433b  master -> master
+]0;~/Desktop/Ninefold-Path/Eightfold-Pathwliamlaptop:Eightfold-Path wliamlaptop$ git status
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	[31mmodified:   .Rproj.user/D6301B1F/console06/58601096[m
+
+no changes added to commit (use "git add" and/or "git commit -a")
+]0;~/Desktop/Ninefold-Path/Eightfold-Path[?1034hwliamlaptop:Eightfold-Path wliamlaptop$ [Kwliamlaptop:Eightfold-Path wliamlaptop$ git status
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add/rm <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	[31mmodified:   .Rproj.user/D6301B1F/console06/58601096[m
+	[31mmodified:   .Rproj.user/D6301B1F/console06/INDEX001[m
+	[31mmodified:   .Rproj.user/D6301B1F/pcs/windowlayoutstate.pper[m
+	[31mmodified:   .Rproj.user/D6301B1F/sources/prop/2D8F0894[m
+	[31mdeleted:    .Rproj.user/D6301B1F/sources/s-38356EA/9100E861[m
+	[31mdeleted:    .Rproj.user/D6301B1F/sources/s-38356EA/9100E861-contents[m
+	[31mdeleted:    .Rproj.user/D6301B1F/sources/s-38356EA/lock_file[m
+	[31mmodified:   .Rproj.user/shared/notebooks/paths[m
+	[31mmodified:   GBMtext[m
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	[31m.Rproj.user/D6301B1F/sources/s-9D3F5962/[m
+
+no changes added to commit (use "git add" and/or "git commit -a")
+]0;~/Desktop/Ninefold-Path/Eightfold-Pathwliamlaptop:Eightfold-Path wliamlaptop$ git add .
