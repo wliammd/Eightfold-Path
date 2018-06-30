@@ -294,3 +294,22 @@ Untracked files:
 
 no changes added to commit (use "git add" and/or "git commit -a")
 ]0;~/Documents/R_Work/Ninefold-Path/Eightfold-Pathwliamlaptop:Eightfold-Path wliamlaptop$ git add .
+]0;~/Documents/R_Work/Ninefold-Path/Eightfold-Pathwliamlaptop:Eightfold-Path wliamlaptop$ git commit '[K-m "directory location chab ges[K[K[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Kan ges[Kd."
+[master f43a9c5] directory location changed.
+ 9 files changed, 89 insertions(+), 5 deletions(-)
+ rewrite .Rproj.user/D6301B1F/console06/INDEX001 (86%)
+ create mode 100644 .Rproj.user/D6301B1F/sources/prop/5D3112D7
+ create mode 100644 .Rproj.user/D6301B1F/sources/s-1CDA4A8/B0E2DF9
+ create mode 100644 .Rproj.user/D6301B1F/sources/s-1CDA4A8/B0E2DF9-contents
+ create mode 100644 .Rproj.user/D6301B1F/sources/s-1CDA4A8/lock_file
+]0;~/Documents/R_Work/Ninefold-Path/Eightfold-Pathwliamlaptop:Eightfold-Path wliamlaptop$ git push
+Counting objects: 15, done.
+Delta compression using up to 8 threads.
+Compressing objects:   6% (1/15)   Compressing objects:  13% (2/15)   Compressing objects:  20% (3/15)   Compressing objects:  26% (4/15)   Compressing objects:  33% (5/15)   Compressing objects:  40% (6/15)   Compressing objects:  46% (7/15)   Compressing objects:  53% (8/15)   Compressing objects:  60% (9/15)   Compressing objects:  66% (10/15)   Compressing objects:  73% (11/15)   Compressing objects:  80% (12/15)   Compressing objects:  86% (13/15)   Compressing objects:  93% (14/15)   Compressing objects: 100% (15/15)   Compressing objects: 100% (15/15), done.
+Writing objects:   6% (1/15)   Writing objects:  13% (2/15)   Writing objects:  20% (3/15)   Writing objects:  26% (4/15)   Writing objects:  33% (5/15)   Writing objects:  40% (6/15)   Writing objects:  46% (7/15)   Writing objects:  53% (8/15)   Writing objects:  60% (9/15)   Writing objects:  66% (10/15)   Writing objects:  73% (11/15)   Writing objects:  80% (12/15)   Writing objects:  86% (13/15)   Writing objects:  93% (14/15)   Writing objects: 100% (15/15)   Writing objects: 100% (15/15), 2.14 KiB | 273.00 KiB/s, done.
+Total 15 (delta 7), reused 0 (delta 0)
+remote: Resolving deltas:   0% (0/7)   [Kremote: Resolving deltas:  14% (1/7)   [Kremote: Resolving deltas:  28% (2/7)   [Kremote: Resolving deltas:  42% (3/7)   [Kremote: Resolving deltas:  57% (4/7)   [Kremote: Resolving deltas:  71% (5/7)   [Kremote: Resolving deltas:  85% (6/7)   [Kremote: Resolving deltas: 100% (7/7)   [Kremote: Resolving deltas: 100% (7/7), completed with 7 local objects.[K
+To https://github.com/wliammd/Eightfold-Path.git
+   aa7f07f..f43a9c5  master -> master
+]0;~/Documents/R_Work/Ninefold-Path/Eightfold-Pathwliamlaptop:Eightfold-Path wliamlaptop$ 
