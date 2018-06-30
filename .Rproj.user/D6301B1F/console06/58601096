@@ -273,4 +273,24 @@ Untracked files:
 	[31m.Rproj.user/D6301B1F/sources/s-577AFC31/[m
 
 no changes added to commit (use "git add" and/or "git commit -a")
-]0;~/Desktop/Ninefold-Path/Eightfold-Pathwliamlaptop:Eightfold-Path wliamlaptop$ 
+[Kwliamlaptop:Eightfold-Path wliamlaptop$ git statyus[K[K[Kus
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	[31mmodified:   .Rproj.user/D6301B1F/console06/58601096[m
+	[31mmodified:   .Rproj.user/D6301B1F/console06/INDEX001[m
+	[31mmodified:   .Rproj.user/D6301B1F/sources/prop/INDEX[m
+	[31mmodified:   GBMtext[m
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	[31m.Rproj.user/D6301B1F/sources/prop/5D3112D7[m
+	[31m.Rproj.user/D6301B1F/sources/s-1CDA4A8/[m
+
+no changes added to commit (use "git add" and/or "git commit -a")
+]0;~/Documents/R_Work/Ninefold-Path/Eightfold-Pathwliamlaptop:Eightfold-Path wliamlaptop$ git add .
