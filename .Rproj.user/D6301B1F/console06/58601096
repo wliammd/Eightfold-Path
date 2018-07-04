@@ -402,4 +402,27 @@ Changes not staged for commit:
 	[31mmodified:   .Rproj.user/D6301B1F/console06/58601096.env[m
 
 no changes added to commit (use "git add" and/or "git commit -a")
-]0;~/Documents/R_Work/Ninefold-Path/Eightfold-Pathwliamlaptop:Eightfold-Path wliamlaptop$ 
+[Kwliamlaptop:Eightfold-Path wliamlaptop$ git status
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	[31mmodified:   .Rproj.user/D6301B1F/console06/58601096[m
+	[31mmodified:   .Rproj.user/D6301B1F/console06/INDEX001[m
+	[31mmodified:   .Rproj.user/D6301B1F/pcs/windowlayoutstate.pper[m
+	[31mmodified:   .Rproj.user/D6301B1F/sources/prop/A8ED6DE2[m
+	[31mmodified:   .Rproj.user/shared/notebooks/312DF253-eighfoldMusings/1/s/chunks.json[m
+	[31mmodified:   eighfoldMusings.Rmd[m
+	[31mmodified:   eighfoldMusings.html[m
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	[31m.Rproj.user/D6301B1F/sources/s-E8FE7D52/[m
+	[31m.Rproj.user/shared/notebooks/312DF253-eighfoldMusings/1/D6301B1FE8FE7D52/[m
+
+no changes added to commit (use "git add" and/or "git commit -a")
+]0;~/Documents/R_Work/Ninefold-Path/Eightfold-Pathwliamlaptop:Eightfold-Path wliamlaptop$ git add .
