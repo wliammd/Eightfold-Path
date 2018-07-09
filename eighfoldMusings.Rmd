@@ -31,6 +31,8 @@ plot(pressure)
 
 Make sure to comment out your code, but what role comments in RMD documents?
 
+Still figuring out this GIT stuff in RStudio.
+
 ```{r message=FALSE, warning=FALSE}
 library(tidyverse)
 ggplot(data = mpg) + 
