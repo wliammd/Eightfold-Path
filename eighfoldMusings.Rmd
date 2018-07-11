@@ -11,9 +11,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Write a Book on Neuropathology
 
-Sure would be good to learn how to **Spell Check** in Rmarkdown...
-
-uh... OK, genius: check the ABC button above
+Copy and paste from prior book draft... figure out tables
 
 ```{r cars}
 summary(cars)
