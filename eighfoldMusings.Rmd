@@ -34,7 +34,7 @@ Still figuring out this GIT stuff in RStudio.
 
 More to come.
 
-Hey, should I write the GATA3 paper in RMD?
+Hey, should I write the GATA3 paper in RMD? Small changes are not worth committing, since a committed document is the "gold standard," the "display copy," if you like. Nonetheless, the habit of committing is important. 
 
 ```{r message=FALSE, warning=FALSE}
 library(tidyverse)
