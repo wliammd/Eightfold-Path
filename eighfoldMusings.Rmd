@@ -34,6 +34,8 @@ Still figuring out this GIT stuff in RStudio.
 
 More to come.
 
+Hey, should I write the GATA3 paper in RMD?
+
 ```{r message=FALSE, warning=FALSE}
 library(tidyverse)
 ggplot(data = mpg) + 
