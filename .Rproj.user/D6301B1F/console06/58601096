@@ -789,3 +789,30 @@ remote: Resolving deltas:   0% (0/5)   [Kremote: Resolving deltas:  20% (1/5) 
 To https://github.com/wliammd/Eightfold-Path.git
    4a9b093..dafbd24  master -> master
 [Kwliamlaptop:Eightfold-Path wliamlaptop$ git  add .
+]0;~/Documents/R_Work/Ninefold-Path/Eightfold-Pathwliamlaptop:Eightfold-Path wliamlaptop$ [Kwliamlaptop:Eightfold-Path wliamlaptop$ [Kwliamlaptop:Eightfold-Path wliamlaptop$ git commit -m "mummer's danc e"
+[master dc86495] mummer's dance
+ 4 files changed, 4 insertions(+), 5 deletions(-)
+ rewrite .Rproj.user/D6301B1F/console06/INDEX001 (87%)
+]0;~/Documents/R_Work/Ninefold-Path/Eightfold-Pathwliamlaptop:Eightfold-Path wliamlaptop$ git push
+Counting objects: 11, done.
+Delta compression using up to 8 threads.
+Compressing objects:  10% (1/10)   Compressing objects:  20% (2/10)   Compressing objects:  30% (3/10)   Compressing objects:  40% (4/10)   Compressing objects:  50% (5/10)   Compressing objects:  60% (6/10)   Compressing objects:  70% (7/10)   Compressing objects:  80% (8/10)   Compressing objects:  90% (9/10)   Compressing objects: 100% (10/10)   Compressing objects: 100% (10/10), done.
+Writing objects:   9% (1/11)   Writing objects:  18% (2/11)   Writing objects:  27% (3/11)   Writing objects:  36% (4/11)   Writing objects:  45% (5/11)   Writing objects:  54% (6/11)   Writing objects:  63% (7/11)   Writing objects:  72% (8/11)   Writing objects:  81% (9/11)   Writing objects:  90% (10/11)   Writing objects: 100% (11/11)   Writing objects: 100% (11/11), 910 bytes | 910.00 KiB/s, done.
+Total 11 (delta 6), reused 0 (delta 0)
+remote: Resolving deltas:   0% (0/6)   [Kremote: Resolving deltas:  16% (1/6)   [Kremote: Resolving deltas:  33% (2/6)   [Kremote: Resolving deltas:  50% (3/6)   [Kremote: Resolving deltas:  66% (4/6)   [Kremote: Resolving deltas:  83% (5/6)   [Kremote: Resolving deltas: 100% (6/6)   [Kremote: Resolving deltas: 100% (6/6), completed with 6 local objects.[K
+To https://github.com/wliammd/Eightfold-Path.git
+   d0267e6..dc86495  master -> master
+]0;~/Documents/R_Work/Ninefold-Path/Eightfold-Pathwliamlaptop:Eightfold-Path wliamlaptop$ git status
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	[31mmodified:   .Rproj.user/D6301B1F/console06/58601096[m
+	[31mmodified:   .Rproj.user/D6301B1F/console06/58601096.env[m
+	[31mmodified:   .Rproj.user/D6301B1F/console06/INDEX001[m
+
+no changes added to commit (use "git add" and/or "git commit -a")
+]0;~/Documents/R_Work/Ninefold-Path/Eightfold-Pathwliamlaptop:Eightfold-Path wliamlaptop$ 
