@@ -38,8 +38,7 @@ Hey, should I write the GATA3 paper in RMD? Small changes are not worth committi
 
 Why use the git interface in RStudio rather than the terminal in RStudio? Doesn't seem to add much, and it keeps me slightly further from git...
 
-Look this up.
-
+The Mummer's Dance spielt.
 
 ```{r message=FALSE, warning=FALSE}
 library(tidyverse)

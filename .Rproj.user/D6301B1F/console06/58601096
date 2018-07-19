@@ -788,4 +788,4 @@ Total 8 (delta 5), reused 0 (delta 0)
 remote: Resolving deltas:   0% (0/5)   [Kremote: Resolving deltas:  20% (1/5)   [Kremote: Resolving deltas:  40% (2/5)   [Kremote: Resolving deltas:  60% (3/5)   [Kremote: Resolving deltas:  80% (4/5)   [Kremote: Resolving deltas: 100% (5/5)   [Kremote: Resolving deltas: 100% (5/5), completed with 5 local objects.[K
 To https://github.com/wliammd/Eightfold-Path.git
    4a9b093..dafbd24  master -> master
-]0;~/Documents/R_Work/Ninefold-Path/Eightfold-Pathwliamlaptop:Eightfold-Path wliamlaptop$ 
+[Kwliamlaptop:Eightfold-Path wliamlaptop$ git  add .
