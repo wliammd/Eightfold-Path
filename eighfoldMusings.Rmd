@@ -40,6 +40,8 @@ Why use the git interface in RStudio rather than the terminal in RStudio? Doesn'
 
 The Mummer's Dance spielt.
 
+How do references work in Rmd?
+
 ```{r message=FALSE, warning=FALSE}
 library(tidyverse)
 ggplot(data = mpg) + 
