@@ -830,3 +830,17 @@ Changes not staged for commit:
 
 no changes added to commit (use "git add" and/or "git commit -a")
 ]0;~/Documents/R_Work/Ninefold-Path/Eightfold-Pathwliamlaptop:Eightfold-Path wliamlaptop$ git add .
+]0;~/Documents/R_Work/Ninefold-Path/Eightfold-Pathwliamlaptop:Eightfold-Path wliamlaptop$ git commit -m"[K "termin al in R"
+[master 2be0de6] terminal in R
+ 5 files changed, 21 insertions(+), 5 deletions(-)
+ rewrite .Rproj.user/D6301B1F/console06/INDEX001 (87%)
+]0;~/Documents/R_Work/Ninefold-Path/Eightfold-Pathwliamlaptop:Eightfold-Path wliamlaptop$ git push
+Counting objects: 12, done.
+Delta compression using up to 8 threads.
+Compressing objects:   9% (1/11)   Compressing objects:  18% (2/11)   Compressing objects:  27% (3/11)   Compressing objects:  36% (4/11)   Compressing objects:  45% (5/11)   Compressing objects:  54% (6/11)   Compressing objects:  63% (7/11)   Compressing objects:  72% (8/11)   Compressing objects:  81% (9/11)   Compressing objects:  90% (10/11)   Compressing objects: 100% (11/11)   Compressing objects: 100% (11/11), done.
+Writing objects:   8% (1/12)   Writing objects:  16% (2/12)   Writing objects:  25% (3/12)   Writing objects:  33% (4/12)   Writing objects:  41% (5/12)   Writing objects:  50% (6/12)   Writing objects:  58% (7/12)   Writing objects:  66% (8/12)   Writing objects:  75% (9/12)   Writing objects:  83% (10/12)   Writing objects:  91% (11/12)   Writing objects: 100% (12/12)   Writing objects: 100% (12/12), 992 bytes | 992.00 KiB/s, done.
+Total 12 (delta 7), reused 0 (delta 0)
+remote: Resolving deltas:   0% (0/7)   [Kremote: Resolving deltas:  14% (1/7)   [Kremote: Resolving deltas:  28% (2/7)   [Kremote: Resolving deltas:  42% (3/7)   [Kremote: Resolving deltas:  57% (4/7)   [Kremote: Resolving deltas:  71% (5/7)   [Kremote: Resolving deltas:  85% (6/7)   [Kremote: Resolving deltas: 100% (7/7)   [Kremote: Resolving deltas: 100% (7/7), completed with 7 local objects.[K
+To https://github.com/wliammd/Eightfold-Path.git
+   a56c1ba..2be0de6  master -> master
+]0;~/Documents/R_Work/Ninefold-Path/Eightfold-Pathwliamlaptop:Eightfold-Path wliamlaptop$ 
