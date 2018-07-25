@@ -58,5 +58,6 @@ A little more text goes here.
 Images can also be inserted as below.
 ![](photos/IMG_0618.JPG)
 
+Images will build up, so are placed in a folder that I set up in the Rproj folder. 
 
 ##References:
