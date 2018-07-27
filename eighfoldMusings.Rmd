@@ -23,6 +23,10 @@ Copy and paste from prior book draft... figure out tables
 summary(cars)
 ```
 
+```{r iris}
+summary(iris)
+```
+
 ## Spiffy Plot
 
 You can also embed plots, for example:
