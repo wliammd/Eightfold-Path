@@ -14,21 +14,16 @@ csl: vancouver.csl
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## Write a Book on Neuropathology
-
 ##Testing Basics (Important Things, Mostly Forgotten)
 This is where pathology lives. This sort of thinking is fundamental to every test that we perform, every diagnosis that we render. A few sticking points that I (and most people) struggle with: 
 
 1.	Prevalence of disease determines context. 
 2.	A certain irony is detected in sensitivity and specificity:
-  + A sensitive test is most useful when it is negative.
-  + A specific test is most useful when it is positive.
+  + A **sensitive** test is most useful when it is negative.
+  + A **specific** test is most useful when it is positive.
   
   
 The essentials of sensitivity and specificity are made memorable by SPIN (specific to rule in) and SNOUT (sensitive to rule out). 
-
-
-See this nice page for help with tables: http://fletcher.github.io/MultiMarkdown-5/tables.html
 
 
 Test Result | Disease | No Disease | Totals
@@ -37,10 +32,13 @@ Positive    | A       | B          | A + B
 Negative    | C       | D          | C + D
 Totals      | A + C   |B + D       | A + B + C + D
 
-Maybe I need some more text before I start a new table. 
 
+$$Accuracy = (A+B)/(A+B+C+D)$$
+$$Sensitivity=A/(A+C)$$
+$$Specificity=D/(B+D)$$
+$$Positive Predictive Value=A/(A+B)$$
+$$Negative Predictive Value=D/(C+D)$$
 
-Copy and paste from prior book draft... figure out tables
 
 
 ```{r cars}
