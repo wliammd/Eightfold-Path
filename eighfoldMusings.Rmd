@@ -31,40 +31,13 @@ The essentials of sensitivity and specificity are made memorable by SPIN (specif
 See this nice page for help with tables: http://fletcher.github.io/MultiMarkdown-5/tables.html
 
 
-Table Header | Second Header
------------  | -------------
-Table Cell   | Cell 2
-Cell 3       | Cell 4
-
+Test Result | Disease | No Disease | Totals
+----------  | ------- |----------- | -----
+Positive    | A       | B          | A + B
+Negative    | C       | D          | C + D
+Totals      | A + C   |B + D       | A + B + C + D
 
 Maybe I need some more text before I start a new table. 
-
-
-|             |          Grouping           ||
-First Header  | Second Header | Third Header |
-------------  | ------------- | ------------ |
-
-
-
-|             |          Grouping           ||
-First Header  | Second Header | Third Header |
-------------  | :-----------: | -----------: |
-Content       |          *Long Cell*        ||
-Content       |   **Cell**    |         Cell |
-
-New section   |     More      |         Data |
-And more      | With an escaped '\|'         ||  
-[Prototype table]
-
-
-
-Test Result |	Disease |	No Disease |	Totals
-___________| _______ | __________ | _______
-Positive |	A |	B	
-Negative |	C |	D	
-Totals	 |		|
-
-
 
 
 Copy and paste from prior book draft... figure out tables
