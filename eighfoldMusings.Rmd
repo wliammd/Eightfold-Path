@@ -1,5 +1,5 @@
 ---
-title: "musings on R Markdown and how I’ll use it"
+title: "Manual of Diagnostic Neuropathology"
 author: "W. McDonald"
 date: "7/1/2018"
 output:
@@ -15,6 +15,17 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 ## Write a Book on Neuropathology
+
+##Testing Basics (Important Things, Mostly Forgotten)
+This is where pathology lives. This sort of thinking is fundamental to every test that we perform, every diagnosis that we render. A few sticking points that I (and most people) struggle with: 
+
+1.	Prevalence of disease determines context. 
+2.	A certain irony is detected in sensitivity and specificity:
+  + A sensitive test is most useful when it is negative.
+  + A specific test is most useful when it is positive.
+  
+  
+The essentials of sensitivity and specificity are made memorable by SPIN (specific to rule in) and SNOUT (sensitive to rule out). 
 
 Copy and paste from prior book draft... figure out tables
 
@@ -39,9 +50,7 @@ plot(pressure)
 
 Make sure to comment out your code, but what role comments in RMD documents?
 
-Still figuring out this GIT stuff in RStudio.
 
-More to come.
 
 Hey, should I write the GATA3 paper in RMD? Small changes are not worth committing, since a committed document is the "gold standard," the "display copy," if you like. Nonetheless, the habit of committing is important. 
 
