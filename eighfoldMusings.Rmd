@@ -27,6 +27,46 @@ This is where pathology lives. This sort of thinking is fundamental to every tes
   
 The essentials of sensitivity and specificity are made memorable by SPIN (specific to rule in) and SNOUT (sensitive to rule out). 
 
+
+See this nice page for help with tables: http://fletcher.github.io/MultiMarkdown-5/tables.html
+
+
+Table Header | Second Header
+-----------  | -------------
+Table Cell   | Cell 2
+Cell 3       | Cell 4
+
+
+Maybe I need some more text before I start a new table. 
+
+
+|             |          Grouping           ||
+First Header  | Second Header | Third Header |
+------------  | ------------- | ------------ |
+
+
+
+|             |          Grouping           ||
+First Header  | Second Header | Third Header |
+------------  | :-----------: | -----------: |
+Content       |          *Long Cell*        ||
+Content       |   **Cell**    |         Cell |
+
+New section   |     More      |         Data |
+And more      | With an escaped '\|'         ||  
+[Prototype table]
+
+
+
+Test Result |	Disease |	No Disease |	Totals
+___________| _______ | __________ | _______
+Positive |	A |	B	
+Negative |	C |	D	
+Totals	 |		|
+
+
+
+
 Copy and paste from prior book draft... figure out tables
 
 
