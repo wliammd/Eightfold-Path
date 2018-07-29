@@ -40,6 +40,23 @@ $$Positive Predictive Value=A/(A+B)$$
 $$Negative Predictive Value=D/(C+D)$$
 
 
+Let’s see, for instance, how prevalence affects the behavior of a test. Make the following assumptions:
+Prevalence=0.01 (1%)
+Sensitivity of our test=90%
+Specificity of our test=90%
+We have 1000 patients to examine.
+
+Test Result | Disease | No Disease | Totals
+----------  | ------- |----------- | -----
+Positive    | 9       | 99          | 108
+Negative    | 1       | 891         | 892
+Totals      | 10      |990          | 1000
+
+
+Positive Predictive Value=A/(A+B)=9/108=8.3%
+Negative Predictive Value=D/(C+D)=891/892=99%
+
+
 
 ```{r cars}
 summary(cars)
