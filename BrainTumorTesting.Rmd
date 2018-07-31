@@ -1,0 +1,24 @@
+---
+title: "Brain Tumor Testing"
+author: "W. McDonald, MD"
+date: "7/31/2018"
+output:
+  beamer_presentation: default
+  ioslides_presentation: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+## Testing Options
+
+Test  | Histology | NGS | CNA | Methylation
+----  | --------- | --- | --- | ------
+Name  | Y         | Y   | Y   | Y
+Prognosis  | Y         | Y   | Y   | Y
+Prediction  | N         | Y   | Y/N | N
+Targeted Rx  | N         | Y   |  N  | N
+Cost  | low       | high| high| high
+Availability| Y         | Y   | Y   | N
