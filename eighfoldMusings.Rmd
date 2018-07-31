@@ -53,9 +53,9 @@ Negative    | 1       | 891         | 892
 Totals      | 10      |990          | 1000
 
 
-$Positive Predictive Value = A/(A+B) = 9/108 = 8.3 percent$
+$Positive Predictive Value = A/(A+B) = 9/108 = 8.3$%
 
-$Negative Predictive Value = D/(C+D) = 891/892 = 99 percent$
+$Negative Predictive Value = D/(C+D) = 891/892 = 99$%
 
 
 
