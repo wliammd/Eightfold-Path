@@ -3,7 +3,9 @@ title: "Brain Tumor Testing"
 author: "W. McDonald, MD"
 date: "7/31/2018"
 output:
-  beamer_presentation: default
+  html_document:
+    df_print: paged
+  pdf_document: default
   ioslides_presentation: default
 ---
 
