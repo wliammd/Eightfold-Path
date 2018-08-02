@@ -48,15 +48,30 @@ We have 1000 patients to examine.
 
 Test Result | Disease | No Disease | Totals
 ----------  | ------- |----------- | -----
-Positive    | 9       | 99          | 108
-Negative    | 1       | 891         | 892
-Totals      | 10      |990          | 1000
+Positive    | 9       | 99         | 108
+Negative    | 1       | 891        | 892
+Totals      | 10      |990         | 1000
 
 
 $Positive Predictive Value = A/(A+B) = 9/108 = 8.3$%
 
 $Negative Predictive Value = D/(C+D) = 891/892 = 99$%
 
+Now, when prevalence changes, our PPV and NPV also change:
+Prevalence=0.1 (10%)
+Sensitivity of our test=90%
+Specificity of our test=90%
+We have 1000 patients to examine.
+
+Test Result | Disease | No Disease | Totals
+----------  | ------- |----------- | -----
+Positive    | 90       | 90         | 180
+Negative    | 10       | 810         | 820
+Totals      | 100      |900         | 1000
+
+$Positive Predictive Value=A/(A+B)=90/180=50$%
+
+$Negative Predictive Value=D/(C+D)=810/820=99$%
 
 
 ```{r cars}
