@@ -78,10 +78,6 @@ $Negative Predictive Value=D/(C+D)=810/820=99$%
 summary(cars)
 ```
 
-```{r iris}
-summary(iris)
-```
-
 ## Spiffy Plot
 
 You can also embed plots, for example:
