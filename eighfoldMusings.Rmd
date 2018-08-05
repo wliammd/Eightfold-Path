@@ -73,6 +73,129 @@ $Positive Predictive Value=A/(A+B)=90/180=50$%
 
 $Negative Predictive Value=D/(C+D)=810/820=99$%
 
+Prevalence=0.5 (50%)
+Sensitivity of our test=90%
+Specificity of our test=90%
+We have 1000 patients to examine.
+
+Test Result | Disease | No Disease | Totals
+----------  | ------- |----------- | -----
+Positive    | 450       | 50         | 500
+Negative    | 50       | 450         | 500
+Totals      | 500      |500         | 1000
+
+$Positive Predictive Value=A/(A+B)=450/500=90$%
+
+$Negative Predictive Value=D/(C+D)=450/500=90$%
+
+Prevalence=0.9 (90%)
+Sensitivity of our test=90%
+Specificity of our test=90%
+We have 1000 patients to examine.
+
+Test Result | Disease | No Disease | Totals
+----------  | ------- |----------- | -----
+Positive    | 810       | 10         | 820
+Negative    | 90       | 90         | 180
+Totals      | 900      |100         | 1000
+
+$Positive Predictive Value=A/(A+B)=810/820=99$%
+$Negative Predictive Value=D/(C+D)=90/180=50$%
+
+And remember, this performance is from the *same test*. 
+
+So when it comes to rare (or even uncommon) disease and immunohistochemical stains that are often less than 90% sensitive and 90% specific, the negative predictive value outperforms the positive predictive value of the tests. Conversely, when the pre-test probability of something is very high, the positive predictive value of the test outweighs the negative predictive value. So adding an immunohistochemical stain to a case when you’re 99% sure it’s disease X and you’re looking for positive confirmation is not only wasteful, it’s stupid. Instead, focus on useful ruleouts or stay put with what you’ve got.
+
+By useful ruleouts, I mean diseases which entail a different treatment, a different prognosis and which have relatively specific antibodies or characteristic immunohistochemical staining patterns which may lend additional specificity. 
+This half of anatomic pathology is poorly understood by most clinicians and some pathologists, who should know better. Problems arise when pathologists are ignorant of these principles. Problems also arise when the definitions of diseases are poorly worked out, when the literature doesn’t focus on high quality diagnostic thinking, and when published sensitivity, specificity and prevalence are not available. Experts see a high prevalence of rare disease, so must understand the context of every case (consult, non-consult, quality of the material, and clinical setting including age, sex and imaging). 
+
+Notice that we haven’t even mentioned one of the most important topics in testing: the gold standard. This theme has never been more important, what with the proliferation of laboratory and imaging tests. We tend to look down upon older, more familiar tests and favor newer tests that at first glance offer better sensitivity and specificity. Trouble is, most new tests are not accompanied by rigorous outcomes studies (our real “gold standard,” if you will). A new test can never perform better than the old gold standard, unless additional information is taken into account.
+The reason for this is often unclear unless you spend your days thinking about testing and making diagnoses. But simply ask yourself “How do I know that a patient has disease X?” Clinicians base their clinical diagnoses on a complex constellation of factors that changes by patient (changing populations) and disease (changing characteristics, different availability of reliable ancillary testing or sensitivity/specificity of presenting signs and symptoms, which should be viewed as tests in their own right!)
+
+Most of the time, laboratory testing or imaging studies are performed when there is a reasonable pre-test probability of disease (analogous to the patient being derived from a population having a high prevalence of the disease of concern). A highly sensitive, inexpensive test might be useful as a screen and a more specific test, if possible a “gold standard,” might be used to follow up. Usually if the patient is positive, we conclude that the patient has the disease. 
+
+However, real cases go undetected for two reasons:
+
+* Our testing is almost never 100% sensitive.
+* Disease is often variable in its presentation, and selection bias ensures that the tests are developed to detect severe cases, not mild ones.
+
+If one proposes to replace an old gold standard, one has to come up with new information, since the gold standard is used to determine our diseased category. Radiology is especially guilty of hubris in this area, since they have complex tests which seem to (but in fact do not) sidestep the issues of sensitivity, specificity, PPV, NPV and gold standards. And the truly important information—how long will the patient live, whether he or she will respond to the proposed therapy, whether he or she is healthier or happier—is often not gathered.
+
+Why? Because the output is complex, the diagnostic criteria poorly developed, or because follow up is too time-consuming or costly. The latter is particularly problematic, since emerging technologies have an incentive to make grand claims about their qualities, both for financial and academic reasons. And these diagnosticians earnestly want to help people. Combine equal parts profit motive with faith that your nifty new test can make a difference, along with ignorance of testing principles and you encounter precisely the situation that we find ourselves in today: inflated health care testing costs, a conflict of interest for diagnosticians, and a proliferation of tests that provide marginal utility.
+
+OK. One new line of thinking has to be introduced at this point, and it may alter the above argument to a degree, and that is the notion of gene testing. This needs to be carved out in a separate discussion. Suffice it to say that some mutational analysis appears to be more sensitive and more specific than other tests that we routinely perform. Issues of sensitivity and specificity still play into the conversation, for example 1p/19q deletion is not specific for oligodendroglioma, and IDH1/2 mutation testing in the classic sense (i.e. PCR-based) relies on a certain amount of DNA with the mutation so that we can “dig signal out of the noise.” Nonetheless, certain germline mutations, for example seem to be 100% predictive of disease. 
+
+So what recommendations do I have for trainees?
+
+1. Get a sense of prevalence of disease in your areas of interest and consider these issues when testing. Awareness of prevalence also lets you study common things and master them (The Heinz ketchup model), before moving on to other areas.
+2. Have a healthy skepticism for new tests, including MRI, and insist that others recognize these things are tests, not inerrant magic balls.
+3. Control your testing. It’s a lot of work to have to stop and “explain away” an ugly test result. It often leads to additional testing, delays, blood draws, costs.
+4. Consider which population group you’re dealing with. This will alter prevalence (Pseudomonas in cystic fibrosis patients, Pneumocystis in AIDS patients, etc).
+5. Master morphology as a separate, complimentary skill, but realize that you are still functioning in the realm of sensitivity, specificity, PPV, NPV
+
+#Survival Analysis: Kaplan-Meier Curves as Fundamental Indicators in Diagnosis
+
+
+
+
+
+#Chapter 2: Essential Neuroanatomy and Neuroradiology
+
+#Chapter 2: Prevalence of Brain and Spinal Cord Tumors (Pre-test Probability)
+
+#Chapter 3: Common Adult Brain Tumors: Infiltrating Gliomas
+
+#Chapter 4: The Oligodendroglioma Controversy
+
+#Chapter 5: Common Adult Brain Tumors: Meningioma
+
+#Controversy: Atypical meningioma: Appropriate management after gross total resection
+
+#Controversy: Hemangiopericytoma and solitary fibrous tumor: Nosology, grading, and therapy
+
+#Chapter 6: Common Pediatric Brain Tumors
+
+#Chapter 7: Adult Brain Tumor Pathways
+
+#Chapter 8: Pediatric Brain Tumor Pathways
+
+#Chapter 9: Common Tumors of the Sella Turcica
+
+#Chapter 10: Basic Muscle and Nerve Pathology
+
+#Chapter 11: Basic Brain Autopsy
+
+#Chapter 12: Basic Dementia Autopsy
+
+#Chapter 13: Diagnostic Neuropathology, A Pragmatic Approach
+	Role of cytologic preparations in intra-operative diagnosis
+	Role of neuro-imaging in diagnostic neuropathology
+
+#Chapter 14: Ependymoma
+
+#Controversy: Treatment following gross total resection
+
+
+Resources provided by this work:
+Text with high-quality images
+Posters with common problems
+YouTube lectures for each chapter (one or more per chapter)
+YouTube demonstrations of all procedures
+Adult brain autopsy
+Fetal brain autopsy
+Smear preparation and staining
+Aperio-scanned slides of all common tumors: smears and histologic slides
+
+Techniques to get this manual written
+	Visit key people, if they’ll let me, to see how they do business
+		Rebecca Folkerth--fetal autopsy
+		Joe Parisi--surgical neuropathology, dementia pathology, adult autopsy
+		UCSF--surgical neuropathology with Arie Parry and Andy Bollen, catalog the brain collection there (scan?)
+
+I’m not interested in answering many of the controversial questions described in this text: my task is much more realistic. I’m interested only in framing better questions or framing the usual questions in the best manner possible. When reasonable, I offer proposed pragmatic suggestions for resolving or circumventing these problems. 
+
+Statistical learning (machine learning) now seems to offer a pathway out of this mess. I need to incorporate thoughts from my PitAdTMA series of experiments to augment this. 
+
 
 ```{r cars}
 summary(cars)
