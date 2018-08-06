@@ -57,6 +57,7 @@ $Positive Predictive Value = A/(A+B) = 9/108 = 8.3$%
 
 $Negative Predictive Value = D/(C+D) = 891/892 = 99$%
 
+***
 Now, when prevalence changes, our PPV and NPV also change:
 Prevalence=0.1 (10%)
 Sensitivity of our test=90%
@@ -73,6 +74,7 @@ $Positive Predictive Value=A/(A+B)=90/180=50$%
 
 $Negative Predictive Value=D/(C+D)=810/820=99$%
 
+***
 Prevalence=0.5 (50%)
 Sensitivity of our test=90%
 Specificity of our test=90%
@@ -88,6 +90,7 @@ $Positive Predictive Value=A/(A+B)=450/500=90$%
 
 $Negative Predictive Value=D/(C+D)=450/500=90$%
 
+***
 Prevalence=0.9 (90%)
 Sensitivity of our test=90%
 Specificity of our test=90%
@@ -102,6 +105,7 @@ Totals      | 900      |100         | 1000
 $Positive Predictive Value=A/(A+B)=810/820=99$%
 $Negative Predictive Value=D/(C+D)=90/180=50$%
 
+***
 And remember, this performance is from the *same test*. 
 
 So when it comes to rare (or even uncommon) disease and immunohistochemical stains that are often less than 90% sensitive and 90% specific, the negative predictive value outperforms the positive predictive value of the tests. Conversely, when the pre-test probability of something is very high, the positive predictive value of the test outweighs the negative predictive value. So adding an immunohistochemical stain to a case when you’re 99% sure it’s disease X and you’re looking for positive confirmation is not only wasteful, it’s stupid. Instead, focus on useful ruleouts or stay put with what you’ve got.
@@ -133,11 +137,8 @@ So what recommendations do I have for trainees?
 4. Consider which population group you’re dealing with. This will alter prevalence (Pseudomonas in cystic fibrosis patients, Pneumocystis in AIDS patients, etc).
 5. Master morphology as a separate, complimentary skill, but realize that you are still functioning in the realm of sensitivity, specificity, PPV, NPV
 
+***
 #Survival Analysis: Kaplan-Meier Curves as Fundamental Indicators in Diagnosis
-
-
-
-
 
 #Chapter 2: Essential Neuroanatomy and Neuroradiology
 
