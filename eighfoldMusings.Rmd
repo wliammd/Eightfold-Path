@@ -138,7 +138,7 @@ So what recommendations do I have for trainees?
 5. Master morphology as a separate, complimentary skill, but realize that you are still functioning in the realm of sensitivity, specificity, PPV, NPV
 
 ***
-#Survival Analysis: Kaplan-Meier Curves as Fundamental Indicators in Diagnosis
+#Brain Tumor Prevalence at Allina Health Laboratories
 
 #Chapter 2: Essential Neuroanatomy and Neuroradiology
 
