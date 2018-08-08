@@ -3,11 +3,12 @@ title: "Manual of Diagnostic Neuropathology"
 author: "W. McDonald"
 date: "7/1/2018"
 output:
+  word_document: default
+  pdf_document: default
   html_document:
     df_print: paged
-  pdf_document: default
-bibliography: bibliography.bib 
 csl: vancouver.csl
+bibliography: bibliography.bib
 ---
 
 ```{r setup, include=FALSE}
@@ -138,8 +139,18 @@ So what recommendations do I have for trainees?
 5. Master morphology as a separate, complimentary skill, but realize that you are still functioning in the realm of sensitivity, specificity, PPV, NPV
 
 ***
-#Brain Tumor Prevalence at Allina Health Laboratories
+#Brain Tumor Prevalence in a Large Community Practice
 This will be based on my neuropathology database.
+
+#Brain Tumor Testing Options: 
+Test  | Histology | NGS | CNA | Methylation
+----  | --------- | --- | --- | ------
+Name  | Y         | Y   | Y   | Y
+Prognosis  | Y         | Y   | Y   | Y
+Prediction  | N         | Y   | Y/N | N
+Targeted Rx  | N         | Y   |  N  | N
+Cost  | low       | high| high| high
+Availability| Y         | Y   | Y   | N
 
 #Chapter 2: Essential Neuroanatomy and Neuroradiology
 
