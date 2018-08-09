@@ -140,7 +140,7 @@ So what recommendations do I have for trainees?
 
 ***
 #Brain Tumor Prevalence in a Large Community Practice
-This will be based on my neuropathology database.
+This will be based on my neuropathology database. R code should display a barplot of the most common diagnoses.
 
 #Brain Tumor Testing Options: 
 Test  | Histology | NGS | CNA | Methylation
