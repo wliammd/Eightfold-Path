@@ -174,6 +174,8 @@ Availability| Y         | Y   | Y   | N
 
 #Chapter 9: Common Tumors of the Sella Turcica
 
+This is where my pituitary algorithm comes in. 
+
 #Chapter 10: Basic Muscle and Nerve Pathology
 
 #Chapter 11: Basic Brain Autopsy
