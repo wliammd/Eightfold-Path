@@ -3,10 +3,10 @@ title: "Manual of Diagnostic Neuropathology"
 author: "W. McDonald"
 date: "7/1/2018"
 output:
-  word_document: default
-  pdf_document: default
   html_document:
     df_print: paged
+  pdf_document: default
+  word_document: default
 csl: vancouver.csl
 bibliography: bibliography.bib
 ---
@@ -143,6 +143,27 @@ So what recommendations do I have for trainees?
 This will be based on my neuropathology database. R code should display a barplot of the most common diagnoses.
 
 #And Poetry... There Needs to be Poetry
+## *Finish Every Day* by Ralph Waldo Emerson
+
+>Finish every day and be done with it.\
+You have done what you could.\
+Some blunders and absurdities\
+no doubt have crept in;\
+forget them as soon as you can.\
+
+>Tomorrow is a new day;\
+begin it well and serenely\
+and with too high a spirit\
+to be cumbered with\
+your old nonsense.\
+
+>This day is all that is\
+good and fair.\
+It is too dear,\
+with its hopes and invitations,\
+to waste a moment on yesterdays.\
+
+>
 
 #Brain Tumor Testing Options: 
 Test  | Histology | NGS | CNA | Methylation
