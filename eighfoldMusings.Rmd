@@ -194,8 +194,10 @@ Availability| Y         | Y   | Y   | N
 #Chapter 7: Adult Brain Tumor Pathways
 
 #Chapter 8: Pediatric Brain Tumor Pathways
+Or how to stop well-meaning people from hurting kids.
 
 #Chapter 9: Common Tumors of the Sella Turcica
+Not that complicated, but detail-rich.
 
 This is where my pituitary algorithm comes in. 
 
@@ -210,6 +212,7 @@ This is where my pituitary algorithm comes in.
 	Role of neuro-imaging in diagnostic neuropathology
 
 #Chapter 14: Ependymoma
+The next generation sequencing evolution of these tumors provides clarity.
 
 #Controversy: Treatment following gross total resection
 
