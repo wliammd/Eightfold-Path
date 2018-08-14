@@ -206,6 +206,7 @@ This is where my pituitary algorithm comes in.
 #Chapter 11: Basic Brain Autopsy
 
 #Chapter 12: Basic Dementia Autopsy
+Is there any evidence based classification in dementia?
 
 #Chapter 13: Diagnostic Neuropathology, A Pragmatic Approach
 	Role of cytologic preparations in intra-operative diagnosis
