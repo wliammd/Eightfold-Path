@@ -178,6 +178,7 @@ Availability| Y         | Y   | Y   | N
 #Chapter 2: Essential Neuroanatomy and Neuroradiology
 
 #Chapter 2: Prevalence of Brain and Spinal Cord Tumors (Pre-test Probability)
+My numbers would look nice here. Carve out an "everything else" category.
 
 #Chapter 3: Common Adult Brain Tumors: Infiltrating Gliomas
 
