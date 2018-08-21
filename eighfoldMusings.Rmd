@@ -134,7 +134,7 @@ So what recommendations do I have for trainees?
 
 1. Get a sense of prevalence of disease in your areas of interest and consider these issues when testing. Awareness of prevalence also lets you study common things and master them (The Heinz ketchup model), before moving on to other areas.
 2. Have a healthy skepticism for new tests, including MRI, and insist that others recognize these things are tests, not inerrant magic balls.
-3. Control your testing. It’s a lot of work to have to stop and “explain away” an ugly test result. It often leads to additional testing, delays, blood draws, costs.
+3. Control your testing. It’s a lot of work to have to stop and “explain away” an ugly test result. It often leads to additional testing, delays, blood draws, costs. Don't be incontinent of test(s).
 4. Consider which population group you’re dealing with. This will alter prevalence (Pseudomonas in cystic fibrosis patients, Pneumocystis in AIDS patients, etc).
 5. Master morphology as a separate, complimentary skill, but realize that you are still functioning in the realm of sensitivity, specificity, PPV, NPV
 
