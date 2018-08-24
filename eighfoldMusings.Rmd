@@ -24,7 +24,7 @@ This is where pathology lives. This sort of thinking is fundamental to every tes
   + A **specific** test is most useful when it is positive.
   
   
-The essentials of sensitivity and specificity are made memorable by SPIN (specific to rule in) and SNOUT (sensitive to rule out). 
+The essentials of sensitivity and specificity are made memorable by SPIN (specific to rule in) and SNOUT (sensitive to rule out). This invariably confuses my epidemiologist wife.
 
 
 Test Result | Disease | No Disease | Totals
