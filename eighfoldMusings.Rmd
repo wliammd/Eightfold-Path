@@ -186,7 +186,7 @@ My numbers would look nice here. Carve out an "everything else" category.
 
 #Chapter 5: Common Adult Brain Tumors: Meningioma
 
-#Controversy: Atypical meningioma: Appropriate management after gross total resection
+#Controversy: Atypical meningioma: Appropriate management after gross total resection. Methylation profiling to the rescue?
 
 #Controversy: Hemangiopericytoma and solitary fibrous tumor: Nosology, grading, and therapy
 
