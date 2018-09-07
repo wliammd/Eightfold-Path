@@ -195,7 +195,7 @@ My numbers would look nice here. Carve out an "everything else" category.
 There are still unclassifiable tumors.
 
 #Chapter 7: Adult Brain Tumor Pathways
-Base this on TCGA, etc.
+Base this on TCGA, diffuse glioma CAP committee
 
 #Chapter 8: Pediatric Brain Tumor Pathways
 Or how to stop well-meaning people from hurting kids.
