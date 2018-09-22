@@ -25,3 +25,5 @@ Prediction  | N         | Y   | Y/N | N
 Targeted Rx  | N         | Y   |  N  | N
 Cost  | low       | high| high| high
 Availability| Y         | Y   | Y   | N
+
+Nice start.
