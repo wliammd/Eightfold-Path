@@ -141,6 +141,8 @@ So what recommendations do I have for trainees?
 
 ***
 #Brain Tumor Prevalence in a Large Community Practice
+Base rates matter.
+
 This will be based on my neuropathology database. R code should display a barplot of the most common diagnoses.
 
 #And Poetry... There Needs to be Poetry
