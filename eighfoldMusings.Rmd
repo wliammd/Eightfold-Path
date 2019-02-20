@@ -228,7 +228,7 @@ The next generation sequencing evolution of these tumors provides clarity.
 MD Anderson is bringing it in for "copy number analysis"... per Jason Huse at the CAP diffuse glioma meeting in September 2018. Others are acquiring it as well. The Europeans remain far ahead as of 9/22/18.  
 
 Resources provided by this work:
-Text with high-quality images
+Text with high-quality images... to pull that off, I'll need to keep working, so that I have access to slides and microscopes with cameras.
 Posters with common problems
 YouTube lectures for each chapter (one or more per chapter)
 YouTube demonstrations of all procedures
